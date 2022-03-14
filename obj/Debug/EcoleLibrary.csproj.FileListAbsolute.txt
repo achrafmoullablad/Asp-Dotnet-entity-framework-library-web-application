@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EcoleLibrary.dll.config
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EcoleLibrary.dll
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EcoleLibrary.pdb
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Tps\EcoleLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Tps\EcoleLibrary\obj\Debug\EcoleLibrary.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Tps\EcoleLibrary\obj\Debug\EcoleLibrary.csproj.CopyComplete
+C:\Users\admin\source\repos\Tps\EcoleLibrary\obj\Debug\EcoleLibrary.dll
+C:\Users\admin\source\repos\Tps\EcoleLibrary\obj\Debug\EcoleLibrary.pdb
